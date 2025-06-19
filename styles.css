@@ -61,7 +61,7 @@ span{
 .venue{
     position: absolute;
     top: 50%;
-    right: 35%;
+    right: 25%;
     display: flex;
     align-items: center;
     justify-content: center;
