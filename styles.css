@@ -10,6 +10,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow-y:auto;
 }
 
 
@@ -49,7 +50,7 @@ image{
 }
 
 .details > h1{
-    font-size: 19px;
+    font-size: 16px;
     color: magenta;
 }
 
@@ -60,7 +61,7 @@ span{
 .venue{
     position: absolute;
     top: 50%;
-    right: 35%;
+    right: 40%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -72,7 +73,7 @@ h4{
 }
 
 .venue p{
-    font-size: 25px;
+    font-size: 20px;
     color: #cdcbcb;
 }
 
