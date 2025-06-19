@@ -21,8 +21,8 @@ section{
     border: 2px solid magenta;
     /* border-radius: 20px; */
     background: linear-gradient(30deg, #470147, #000032 50%, #5e5eee);
-    margin:30px;
-
+    margin-top:50px;
+    margin-bottom:50px;
 }
 
 image{
